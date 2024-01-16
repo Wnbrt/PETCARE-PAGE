@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+body {background-color: beige;}
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVOL PET CARE</title>
+</head>
+<H1 style="color: brown;">WELCOME TO EVOL PET CARE PAGE</H1>
+<A href="https://pawsindia.com/">VISIT pawsindia</A>
+
+<body>
+    <img src="https://th.bing.com/th/id/OIP.fRrvbvn5vtfWoAgwqB_nAAHaE8?rs=1&pid=ImgDetMain" width="100PX" height="100PX" alt="GROOMING" ALIGN="LEFT">
+    <p style="color: blue; background-color: beige;" <b>GROOMING</b> </p>
+    <P><mark>DISCOUNT</mark></P>
+    <P1><i>PRICE:</i> <del>350  </del>250</P1>
+    
+</body>
+</html>
